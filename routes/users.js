@@ -1,5 +1,5 @@
-var express = require('express');
-var router = express.Router();
+import { Router } from 'express';
+var router = Router();
 
 /* GET users listing. */
 router.get('/', (req, res, next) => {
@@ -26,4 +26,4 @@ router.get('/:id', (req, res, next) => {
 
 
 
-module.exports = router;
+export default router;
