@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "name": "Data Mining Application",
+  "companyThatPosted": "The Coolest Company",
+  "description": "We are looking for a software consulting company to help us build a frontend web portal for account division. Although we have a set of requirements, we also would accept input for what this application should be and do.",
+  "datePosted": "6/01/2019",
+  "bidCount": 133,
+  "tags": [
+    "Frontend",
+    "Backend",
+    "Data Mining"
+  ]
+}
