@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "A Really Cool Application",
+  "companyThatPosted": "Freedom Technicians",
+  "description": "Although we have a set of requirements, we also would accept input for what this application should be and do. We are looking for a software consulting company to help us build a frontend web portal for account division. We want this software to be done RIGHT!",
+  "datePosted": "2/01/2011",
+  "bidCount": 0,
+  "tags": [
+    "Frontend",
+    "Backend"
+  ]
+}
